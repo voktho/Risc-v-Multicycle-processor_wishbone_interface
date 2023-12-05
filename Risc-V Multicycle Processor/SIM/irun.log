@@ -1,0 +1,21 @@
+irun: 10.20-s100: (c) Copyright 1995-2011 Cadence Design Systems, Inc.
+TOOL:	irun	10.20-s100: Started on Mar 01, 2023 at 00:28:30 BDT
+irun
+	-f file_list.f
+		../RTL/*.v
+		../RTL/*.sv
+		../TB/MEM_CTRL_TOP_TB_2.sv
+	-gui
+	-access +rwc
+	-s
+ncsim> 
+ncsim> source /home/buet/cadence/installs/INCISIV102/tools/inca/files/ncsimrc
+ncsim> 
+-------------------------------------
+Relinquished control to SimVision...
+# Restoring simulation environment...
+ncsim> input -quiet .reinvoke.sim
+ncsim> file delete .reinvoke.sim
+ncsim> run
+Simulation stopped via $stop(1) at time 21275 NS + 0
+ncsim> 

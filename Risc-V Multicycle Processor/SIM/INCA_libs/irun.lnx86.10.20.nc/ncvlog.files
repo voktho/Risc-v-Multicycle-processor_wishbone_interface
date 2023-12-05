@@ -1,0 +1,14 @@
+//
+// File created by:  irun
+// Do not modify this file
+//
+"/home/buet/exchange/project1 (12)/project1/RTL/ADR_REG.v"
+"/home/buet/exchange/project1 (12)/project1/RTL/DAT_REG.v"
+"/home/buet/exchange/project1 (12)/project1/RTL/DFFRAM_RTL_2048.v"
+"/home/buet/exchange/project1 (12)/project1/RTL/MEM_CTRL_TOP.v"
+"/home/buet/exchange/project1 (12)/project1/RTL/MEM_CTRL_TOP_FSM.v"
+"/home/buet/exchange/project1 (12)/project1/RTL/WISH_FSM.v"
+"/home/buet/exchange/project1 (12)/project1/RTL/WISH_TOP.v"
+"/home/buet/exchange/project1 (12)/project1/RTL/data_memory_wrapper.v"
+"/home/buet/exchange/project1 (12)/project1/RTL/RiscV_Multi.sv"
+"/home/buet/exchange/project1 (12)/project1/TB/MEM_CTRL_TOP_TB_2.sv"
